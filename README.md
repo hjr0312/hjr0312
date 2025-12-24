@@ -18,14 +18,11 @@ Since graduating I have been working towards various professional certificates i
 📚 I'm currently learning PowerBI and understanding DAX 
   <br>
 <h2 align="left"> 🎯 Goals for 2026:</h2>
-  - Go outside more <br>
-  - Drink more water <br>
   - Do more projects with SAS <br>
 </p>
 
 <h2 align="left"> 🌱 Current Certificates</h2>
 <p align="left">
-<br>
 ● Certified Associate in Project Management (CAPM) <br>
 ● SAS Certified Statistical Business Analyst Using SAS 9: Regression and Modeling <br>
 ● SAS Certified Base Programmer for SAS 9 <br>
