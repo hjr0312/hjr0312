@@ -3,10 +3,10 @@
 ###
 
 <h2 align="left">About me</h2>
-I am a Business Intelligence and Analytics Senior with experience defining KPI frameworks, building strategic roadmaps, and delivering data solutions 
-in **Agile environments**. Skilled in SQL, Tableau, Power BI, and Databricks, with a record of aligning stakeholders, scoping requirements, and 
-delivering actionable insights that drive institutional and operational outcomes. Adept at partnering with **C-Suite** executives and ** cross-functional 
-teams ** to define metrics, document processes, and deliver high-impact reporting solutions in education and technology settings. 
+I am a <b>Business Intelligence and Analytics Senior</b> with experience defining <b>KPI frameworks</b>, building strategic roadmaps, and delivering data solutions 
+in <b>Agile environments</b>. Skilled in SQL, Tableau, Power BI, and Databricks, with a record of aligning stakeholders, scoping requirements, and 
+delivering actionable insights that drive institutional and operational outcomes. Adept at partnering with <b>C-Suite executives</b> and <b>cross-functional 
+teams</b> to define metrics, document processes, and deliver high-impact reporting solutions in Edtech. 
 <br>
 <br>
 I graduated in 2017 with my UG in Management Information Systems and achieved my Masters Degree a few years later in Data Analytics. 
@@ -36,7 +36,7 @@ Since graduating I have been working towards various professional certificates i
 ● AWS Cloud Practitioner <br>
 </p>
 <br>
-📫 How to reach me: <b>hrogersbusiness@gmail.com<b>
+📫 How to reach me: <b>hrogersbusiness@gmail.com</b>
 
 
 <!--
