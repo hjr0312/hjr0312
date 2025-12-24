@@ -1,23 +1,42 @@
-## Hi there 👋
-<h1 align="left">Hey 👋 What's up?</h1>
-
-###
-
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<h1 align="left">⚡Greetings!</h1>
 
 ###
 
 <h2 align="left">About me</h2>
+I am a Business Intelligence and Analytics Senior with experience defining KPI frameworks, building strategic roadmaps, and delivering data solutions 
+in **Agile environments**. Skilled in SQL, Tableau, Power BI, and Databricks, with a record of aligning stakeholders, scoping requirements, and 
+delivering actionable insights that drive institutional and operational outcomes. Adept at partnering with **C-Suite** executives and ** cross-functional 
+teams ** to define metrics, document processes, and deliver high-impact reporting solutions in education and technology settings. 
+<br>
+<br>
+I graduated in 2017 with my UG in Management Information Systems and achieved my Masters Degree a few years later in Data Analytics. 
+Since graduating I have been working towards various professional certificates including my PMI-CAPM certification. I next plan on achieving my PMI-PBA certification.
+<br>
+<br>
 
-###
+<p align="left">
+📚 I'm currently learning PowerBI and understanding DAX 
+  <br>
+<h2 align="left"> 🎯 Goals for 2026:</h2>
+  - Go outside more <br>
+  - Drink more water <br>
+  - Do more projects with SAS <br>
+</p>
 
-<p align="left">📚 I'm currently learning PowerBI <br>🎯 Goals: ...</p>
-
-###
-
-<h2 align="left">Certificates</h2>
-
-
+<h2 align="left"> 🌱 Current Certificates</h2>
+<p align="left">
+<br>
+● Certified Associate in Project Management (CAPM) <br>
+● SAS Certified Statistical Business Analyst Using SAS 9: Regression and Modeling <br>
+● SAS Certified Base Programmer for SAS 9 <br>
+● Microsoft Azure Fundamentals <br>
+● Tableau Desktop Specialist <br>
+● Faculty Success Faculty Accomplishments Administrator Certification <br>
+● Lean Six Sigma Green Belt <br>
+● AWS Cloud Practitioner <br>
+</p>
+<br>
+📫 How to reach me: <b>hrogersbusiness@gmail.com<b>
 
 
 <!--
