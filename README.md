@@ -9,7 +9,7 @@ delivering actionable insights that drive institutional and operational outcomes
 teams</b> to define metrics, document processes, and deliver high-impact reporting solutions in Edtech. 
 <br>
 <br>
-I graduated in 2017 with my UG in Management Information Systems and achieved my Masters Degree a few years later in Data Analytics. 
+I graduated in 2017 with my Undergraduate in Management Information Systems and achieved my Masters Degree a few years later in Data Analytics. 
 Since graduating I have been working towards various professional certificates including my PMI-CAPM certification. I next plan on achieving my PMI-PBA certification.
 <br>
 <br>
