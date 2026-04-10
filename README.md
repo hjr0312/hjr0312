@@ -15,10 +15,10 @@ Since graduating I have been working towards various professional certificates i
 <br>
 
 <p align="left">
-📚 I'm currently learning PowerBI and understanding DAX 
+📚 I'm currently studying for my PL-300 
   <br>
 <h2 align="left"> 🎯 Goals for 2026:</h2>
-  - Do more projects with SAS <br>
+  - Attempt the PMI-PBA <br>
 </p>
 
 <h2 align="left"> 🌱 Current Certificates</h2>
