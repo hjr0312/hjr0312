@@ -23,7 +23,9 @@ Since graduating I have been working towards various professional certificates i
 
 <h2 align="left"> 🌱 Current Certificates</h2>
 <p align="left">
-● Certified Associate in Project Management (CAPM) <br>
+  
+● Practical Application of Gen AI for Project Managers - Project Management Institute <br>
+● Certified Associate in Project Management (CAPM) - Project Management Institute <br>
 ● SAS Certified Statistical Business Analyst Using SAS 9: Regression and Modeling <br>
 ● SAS Certified Base Programmer for SAS 9 <br>
 ● Microsoft Azure Fundamentals <br>
