@@ -3,7 +3,7 @@
 ###
 
 <h2 align="left">About me</h2>
-I am a <b> Senior Data Analyst/B.I. Analyst </b> with over 8 years experience defining <b>KPI frameworks</b>, building strategic roadmaps, and delivering data solutions 
+I am a <b> Senior Data Analyst/B.I. Engineer </b> with over 8 years experience defining <b>KPI frameworks</b>, building strategic roadmaps, and delivering data solutions 
 in <b>Agile environments</b>. Skilled in SQL, Tableau, Power BI, and Databricks, with a record of aligning stakeholders, scoping requirements, and 
 delivering actionable insights that drive institutional and operational outcomes. Adept at partnering with <b>C-Suite executives</b> and <b>cross-functional 
 teams</b> to define metrics, document processes, and deliver high-impact reporting solutions in Edtech. 
